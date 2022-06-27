@@ -1,8 +1,5 @@
 # Web Scraping Homework - Mission to Mars
 
-
-https://user-images.githubusercontent.com/65635726/159075450-342605e0-fbf1-4d74-9ba4-10ceb2255a6c.mp4
-
 ## Step 1 - Scraping
 
 Complete your initial scraping using Jupyter Notebook, BeautifulSoup, Pandas, and Requests/Splinter.
